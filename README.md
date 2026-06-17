@@ -17,7 +17,7 @@
 
 Second-year medical student with a parallel obsession with code, specifically, making deep learning useful in clinical and biological contexts. I care most about problems where the biology is genuinely hard and the data is genuinely messy.
 
-I am drawn to **cardiology** and **oncology** as future specialties: two fields where computation and medicine are converging fastest.
+I am drawn to **cardiology** and **oncology** as future specialties: two fields where programming and medicine are converging fastest.
 - location → Bucharest, Romania 🇷🇴 
 - languages → Romanian · English · Français · Deutsch
 - type → introvert who craves forests and open skies
