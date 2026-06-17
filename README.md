@@ -67,5 +67,5 @@ What I love doing most, when I'm not swamped with exams:
 - embroidery 
 - drawing — both digital and traditional; mostly anatomy and odd, funny little creature design
 - video games — player and hobbyist game dev; HTML5 canvas and R are my playground
-- writing — I keep a blog: neural-decay, which is my a digital diary of thoughts and observations
+- writing — I keep a blog: neural-decay, which is my digital diary of thoughts and observations
 - catching up on new articles on cellular biology
