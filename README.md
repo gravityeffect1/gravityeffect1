@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&width=500&lines=Deep+Learning+%C3%97+Computational+Medicine;CRISPR+%7C+Oncogenomics+%7C+Haematology+AI;Building+at+the+intersection+of+code+and+clinic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&width=500&lines=Deep+Learning+%C3%97+Computational+Medicine;CRISPR+%7C+Oncogenomics+%7C+Translational Med;" alt="Typing SVG" />
 </p>
 
 <br/>
