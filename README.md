@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&width=500&lines=Deep+Learning+%C3%97+Computational+Medicine;CRISPR+%7C+Oncogenomics;" alt="Typing SVG" />
 </p>
 
+<p>
+  Hi! I'm Sara, welcome to my little interdisciplinary corner of the internet.
+</p>
 <br/>
 
 > *"Natura non facit saltus."*
