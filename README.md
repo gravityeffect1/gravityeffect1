@@ -58,7 +58,7 @@ I am drawn to **cardiology** and **oncology** as future specialties: two fields 
 | [CysteineBRCA1](https://github.com/gravityeffect1/CysteineBRCA1) | Cysteine residue analysis in BRCA1 structural variants |
 | [sensa](https://github.com/gravityeffect1/sensa) | Gemma-powered model — Google Gemma4Good Hackathon |
 | [16S-rRNA-Classification](https://github.com/gravityeffect1/16S-rRNA-Classification-Workflow) | ML workflow for microbial community classification |
-| [Histo by Gamers](https://github.com/gravityeffect1/histo-by-gamers) | HTML5 canvas + R simulation of the lymphatic system |
+| [Histo by Gamers](https://github.com/gravityeffect1/ross-by-gamers) | HTML5 canvas + R simulation of the lymphatic system |
 
 ---
 
