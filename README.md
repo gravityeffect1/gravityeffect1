@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  Hi! I'm Sara, welcome to my little interdisciplinary corner of the internet.
+  Hi! I'm Sara, welcome to my little coding biosphere.
 </p>
 <br/>
 
