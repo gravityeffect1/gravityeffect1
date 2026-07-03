@@ -23,7 +23,6 @@ Second-year medical student with a parallel obsession with code, specifically, m
 I am drawn to **cardiology** and **oncology** as future specialties: two fields where programming and medicine are converging fastest.
 - location → Bucharest, Romania 🇷🇴 
 - languages → Romanian · English · Français · Deutsch
-- type → introvert who craves forests and open skies
 
 ---
 
