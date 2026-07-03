@@ -28,7 +28,7 @@ I am drawn to **cardiology** and **oncology** as future specialties: two fields 
 
 ### ⬡ research interests
 
--  Deep learning for medical imaging & multi-omics
+-  Deep learning for medical imaging, pathology & multi-omics
 -  Computational Medicine
 -  Cancer genomics & oncoproteomics 
 -  CRISPR guide RNA design & off-target prediction
