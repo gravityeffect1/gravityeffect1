@@ -63,10 +63,15 @@ I am drawn to **cardiology** and **oncology** as future specialties: two fields 
 
 ### ✿ beyond the lab
 
-I'm an introvert who recharges in forests and thinks best with a needle or stylus in hand.
+I'm an introvert who recharges in forests and thinks best with a stylus in hand.
 What I love doing most, when I'm not swamped with exams:
 - embroidery 
-- drawing — both digital and traditional; mostly anatomy and odd, funny little creature design
-- video games — player and hobbyist game dev; HTML5 canvas and R are my playground
+- drawing — both digital and traditional; mostly anatomy and odd, funny little creature designs - also, ponies! hardcore MLP fan here!
+- reading high-fantasy books and re-analysing the political dynamics between the elves of Mirkwood and the dwarves of Erebor.
+- video games — player and hobbyist game dev; HTML5 canvas and R are my playground; Horizon Zero Dawn & Assassin's Creed enjoyer
 - writing — I keep a blog: neural-decay, which is my digital diary of thoughts and observations
-- catching up on new articles on cellular biology
+- catching up on new articles on cellular biology and computational biology
+- people watching & daydreaming
+- tinkering & fixing my jewerly
+- playing with my Zeiss microscope
+  
