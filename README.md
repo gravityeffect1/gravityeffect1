@@ -26,6 +26,34 @@ I am drawn to **cardiology** and **oncology** as future specialties: two fields 
 
 ---
 
+---
+
+### ⌁ current research @ IVB
+
+**Research Intern — Laboratory of Ultrastructural Pathology**  
+*“Victor Babeș” National Institute of Pathology, Bucharest · May 2026 — present*
+
+I work on the machine-learning side of the lab's **AI in pathology** programme, developing reproducible deep-learning workflows for digital histopathology together with the lab's pathologists.
+
+My current work is centred on **colorectal histology semantic segmentation** — teaching computer-vision models to localise and distinguish pathological tissue patterns at pixel level.
+
+What that currently involves:
+- designing and training multi-class semantic-segmentation pipelines in **PyTorch / Ultralytics**
+- group-aware cross-validation and held-out evaluation
+- class-imbalance handling and error analysis
+- external-generalisation testing across public and institutional data
+- quantitative analysis of failure modes, including ordinal grading errors
+- coordinating annotation and reference-standard criteria with pathologists
+- building reproducible experiment, evaluation and reporting workflows
+
+The broader aim is to move beyond *“can the model segment this image?”* towards:
+
+> **what pathological information is the model learning, where does it fail, and can that behaviour generalise to real clinical material?**
+
+Current methodological interests within the project include **ordinal-aware grading, boundary-sensitive segmentation, robust evaluation and domain shift**.
+
+<sub>Laboratory of Ultrastructural Pathology, IVB </sub>
+
 ### ⬡ research interests
 
 -  Deep learning for medical imaging, pathology & multi-omics
