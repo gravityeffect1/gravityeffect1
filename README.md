@@ -1,106 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&width=500&lines=Deep+Learning+%C3%97+Computational+Medicine;CRISPR+%7C+Oncogenomics;" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p>
-  Hi! I'm Sara, welcome to my little coding biosphere.
-</p>
-<br/>
+### Sara-Mihaela Șova
+**Medical student · Computational medicine · AI in oncology**
 
-> *"Natura non facit saltus."*
-> — Linnaeus &nbsp;·&nbsp; <sub>nature does not make leaps</sub>
+*Carol Davila University of Medicine and Pharmacy · Bucharest, Romania*
+
+[Research portfolio](https://github.com/gravityeffect1?tab=repositories) · [MASOR](https://github.com/gravityeffect1/MASOR) · [Neural Decay](https://github.com/gravityeffect1/blog-neural-decay)
 
 </div>
 
 ---
 
-### ∿ about me
+### About
 
-· *Carol Davila University of Medicine*
+I'm a third-year medical student working at the intersection of clinical medicine, machine learning, and biomedical research. My interests lie in **translational oncology**, computational pathology, and reproducible evaluation of models trained on complex biological data.
 
-Third-year medical student with a parallel obsession with code, specifically, making deep learning useful in clinical and biological contexts. I care most about problems where the biology is genuinely hard and the data is genuinely messy.
+I work primarily with Python and PyTorch, and I care about how we move from a promising experimental score to a method that can be meaningfully scrutinised, reproduced, and eventually tested in clinical contexts.
 
-I am drawn to **cardiology** and **oncology** as future specialties: two fields where programming and medicine are converging fastest.
-- location → Bucharest, Romania 🇷🇴 
-- languages → Romanian · English · Français · Deutsch
+### Current research
 
----
+**Research intern — Laboratory of Ultrastructural Pathology**  
+*“Victor Babeș” National Institute of Pathology, Bucharest · May 2026–present*
 
----
+Working on computer-vision methods for colorectal histopathology, including tissue localisation, multiclass segmentation, ordinal-aware grading, model evaluation, and robustness analysis.
 
-### ⌁ current research @ IVB
+My primary project is **[MASOR 2.1](https://github.com/gravityeffect1/MASOR)**, an annotation-aware, multi-task histology pipeline combining a ConvNeXt-Tiny/FPN feature extractor, trainable ordinal morphology prototypes, feature-level stain contrastive learning, and weak-label refinement.
 
-**Research Intern — Laboratory of Ultrastructural Pathology**  
-*“Victor Babeș” National Institute of Pathology, Bucharest · May 2026 — present*
+**Selected results:** five grouped outer folds · **0.939** binary localisation Dice · **0.815** macro foreground Dice (out-of-fold bootstrap estimates on the project's EBHI-Seg-derived evaluation set).
 
-I work on the machine-learning side of the lab's **AI in pathology** programme, developing reproducible deep-learning workflows for digital histopathology together with the lab's pathologists.
+Research conducted in the Laboratory of Ultrastructural Pathology under **Lecturer Dr. Emanuel Tudor Fertig**, Head of Laboratory, in collaboration with **Leonard Savu**.
 
-My current work is centred on **colorectal histology semantic segmentation** — teaching computer-vision models to localise and distinguish pathological tissue patterns at pixel level.
+### Selected projects
 
-What that currently involves:
-- designing and training multi-class semantic-segmentation pipelines in **PyTorch / Ultralytics**
-- group-aware cross-validation and held-out evaluation
-- class-imbalance handling and error analysis
-- external-generalisation testing across public and institutional data
-- quantitative analysis of failure modes, including ordinal grading errors
-- coordinating annotation and reference-standard criteria with pathologists
-- building reproducible experiment, evaluation and reporting workflows
+| Project | Focus |
+|:--|:--|
+| **[MASOR 2.1](https://github.com/gravityeffect1/MASOR)** | Colorectal histopathology segmentation; ordinal prototype learning, H&E stain robustness, five-fold evaluation |
+| **[Breast-cancer miRNA reproducibility](https://github.com/gravityeffect1/miarn-reproductibility)** | Literature-derived biomarker panel across two independent GEO cohorts; external ROC-AUC **0.987** and null-panel comparisons |
+| **[Sensa](https://github.com/gravityeffect1/sensa)** | Romanian-language HPV/cervical-cancer education assistant; source-grounded LLM workflow and response safeguards |
+| **[Colon MTL](https://github.com/gravityeffect1/colon-mtl)** | Experimental colorectal histology segmentation and training workflow |
+| **[Histology Made by Gamers](https://github.com/gravityeffect1/ross-by-gamers)** | Interactive histology education built with React and Canvas |
 
-The broader aim is to move beyond *“can the model segment this image?”* towards:
+### Technical focus
 
-> **what pathological information is the model learning, where does it fail, and can that behaviour generalise to real clinical material?**
+**Machine learning:** PyTorch, scikit-learn, timm, Ultralytics, cross-validation, semantic segmentation, model evaluation  
+**Scientific computing:** Python, R, pandas, NumPy, OpenCV, Jupyter, Kaggle  
+**Biomedical data:** H&E histopathology, miRNA expression, public genomics datasets, sequence analysis
 
-Current methodological interests within the project include **ordinal-aware grading, boundary-sensitive segmentation, robust evaluation and domain shift**.
+### Beyond research
 
-<sub>Laboratory of Ultrastructural Pathology, IVB </sub>
+I also enjoy scientific writing, digital illustration, and building small educational games. I write at **[Neural Decay](https://github.com/gravityeffect1/blog-neural-decay)**.
 
-### ⬡ research interests
+> *Natura non facit saltus.*
 
--  Deep learning for medical imaging, pathology & multi-omics
--  Computational Medicine
--  Cancer genomics & oncoproteomics 
--  CRISPR guide RNA design & off-target prediction
--  Microbial classification 
--  Cardiac electrophysiology (aspiring)
-
----
-
-### ⌬ stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### ◈ featured research and projects
-
-| project | research focus |
-|---|---|
-| [**MASOR 2.1**](https://github.com/gravityeffect1/MASOR) | **Ordinal-aware computational pathology** · ConvNeXt/FPN · trainable morphological prototypes · five-fold cross-validation · binary Dice **0.939**, macro foreground Dice **0.815** |
-| [**Breast-cancer miRNA reproducibility**](https://github.com/gravityeffect1/miarn-reproductibility) | Cross-cohort biomarker reproducibility · GEO microarrays · null comparisons · calibration and external validation |
-| [**Sensa**](https://github.com/gravityeffect1/sensa) | Romanian-language HPV/cervical-cancer education assistant · source-grounded LLM workflow and safety mechanisms |
-| [**Colon MTL**](https://github.com/gravityeffect1/colon-mtl) | Colorectal histology preprocessing, segmentation training and experimental code |
-| [**Histology Made by Gamers**](https://github.com/gravityeffect1/ross-by-gamers) | Interactive histology learning environment using React and Canvas |
-
-**MASOR research affiliation:** Laboratory of Ultrastructural Pathology, “Victor Babeș” National Institute of Pathology; supervised by **Lecturer Dr. Emanuel Tudor Fertig**, Head of Laboratory, in collaboration with **Leonard Savu**.
-
----
-
-### ✿ beyond the lab
-
-I'm an introvert who recharges in forests and thinks best with a stylus in hand.
-What I love doing most, when I'm not swamped with exams:
-- embroidery 
-- drawing — both digital and traditional; mostly anatomy and odd, funny little creature designs - also, ponies! hardcore MLP fan here!
-- reading high-fantasy books and re-analysing the political dynamics between the elves of Mirkwood and the dwarves of Erebor.
-- video games — player and hobbyist game dev; HTML5 canvas and R are my playground; Horizon Zero Dawn & Assassin's Creed enjoyer
-- writing — I keep a blog: neural-decay, which is my digital diary of thoughts and observations
-- catching up on new articles on cellular biology and computational biology
-- people watching & daydreaming
-- tinkering & fixing my jewerly
-- playing with my Zeiss microscope
-  
