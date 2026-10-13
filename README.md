@@ -76,16 +76,17 @@ Current methodological interests within the project include **ordinal-aware grad
 
 ---
 
-### ◈ featured work
+### ◈ featured research and projects
 
-| project | what it does |
+| project | research focus |
 |---|---|
-| [ARROW](https://github.com/gravityeffect1/ARROW) | Automated Cas13 gRNA design platform for SARS-CoV-2 |
-| [MTCNN_leuco](https://github.com/gravityeffect1/MTCNN_leuco) | MTCNN-based leukocyte detection pipeline |
-| [CysteineBRCA1](https://github.com/gravityeffect1/CysteineBRCA1) | Cysteine residue analysis in BRCA1 structural variants |
-| [sensa](https://github.com/gravityeffect1/sensa) | Gemma-powered model — Google Gemma4Good Hackathon |
-| [16S-rRNA-Classification](https://github.com/gravityeffect1/16S-rRNA-Classification-Workflow) | ML workflow for microbial community classification |
-| [Histo by Gamers](https://github.com/gravityeffect1/ross-by-gamers) | HTML5 canvas + R simulation of the lymphatic system |
+| [**MASOR 2.1**](https://github.com/gravityeffect1/MASOR) | **Ordinal-aware computational pathology** · ConvNeXt/FPN · trainable morphological prototypes · five-fold cross-validation · binary Dice **0.939**, macro foreground Dice **0.815** |
+| [**Breast-cancer miRNA reproducibility**](https://github.com/gravityeffect1/miarn-reproductibility) | Cross-cohort biomarker reproducibility · GEO microarrays · null comparisons · calibration and external validation |
+| [**Sensa**](https://github.com/gravityeffect1/sensa) | Romanian-language HPV/cervical-cancer education assistant · source-grounded LLM workflow and safety mechanisms |
+| [**Colon MTL**](https://github.com/gravityeffect1/colon-mtl) | Colorectal histology preprocessing, segmentation training and experimental code |
+| [**Histology Made by Gamers**](https://github.com/gravityeffect1/ross-by-gamers) | Interactive histology learning environment using React and Canvas |
+
+**MASOR research affiliation:** Laboratory of Ultrastructural Pathology, “Victor Babeș” National Institute of Pathology; supervised by **Lecturer Dr. Emanuel Tudor Fertig**, Head of Laboratory, in collaboration with **Leonard Savu**.
 
 ---
 
