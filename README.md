@@ -18,7 +18,7 @@
 
 · *Carol Davila University of Medicine*
 
-Second-year medical student with a parallel obsession with code, specifically, making deep learning useful in clinical and biological contexts. I care most about problems where the biology is genuinely hard and the data is genuinely messy.
+Third-year medical student with a parallel obsession with code, specifically, making deep learning useful in clinical and biological contexts. I care most about problems where the biology is genuinely hard and the data is genuinely messy.
 
 I am drawn to **cardiology** and **oncology** as future specialties: two fields where programming and medicine are converging fastest.
 - location → Bucharest, Romania 🇷🇴 
